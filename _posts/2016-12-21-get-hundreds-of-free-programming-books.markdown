@@ -1,7 +1,10 @@
 ---
+layout: post
 title: Get Hundreds of Free Programming Books
 date: 2016-12-21 03:48:00 Z
-layout: post
+comments: true
+category: Misc
+tags: jekyll
 ---
 
 **[Github community](https://github.com/vhf/free-programming-books)** has made an index of programming books that can be downloaded for free, the books are very diverse but focused on one topic namely programming and computer-related matters.
