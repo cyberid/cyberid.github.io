@@ -16,7 +16,7 @@ In the index of free books, also available books to learn programming on a varie
 All programming books in the index is a book that is free to download and does not require a fee to buy it, but that does not mean the books are free to resale, because free books on the index of the book is a book with creative commons license.
 
 The following are programming books that available in the index and would very likely the number will continue to increase over time.
-
+<!-- more -->
 * [Ada](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ada)
 
 * [Agda](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#agda)
