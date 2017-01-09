@@ -30,12 +30,12 @@ author:
   name: CyberID
   description: Small things that matters.
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+    #linkedin:  <hide>
+    github:    https://https://github.com/cyberid
     # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    #twitter:   <hide>
+    #weibo:     <hide>
+    #email:     <hide>
 
 # Navigation (2nd level links supported)
 nav:
@@ -57,5 +57,5 @@ category_page: '/categories/'
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+google_analytics_token: '' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
