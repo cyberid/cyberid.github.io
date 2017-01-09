@@ -4,7 +4,7 @@ tagline: 'Small things that matters'
 description: 'Personal list and essay for learning purpose only, my text logs in learning everything from the Internet'
 baseurl: ''
 url: https://cyberid.github.io
-logo: '/public/logo.png'
+logo: '/public/cyberidlogo.jpg'
 
 # Site configurations
 gems:
