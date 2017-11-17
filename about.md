@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Hello, thankyou for visitng my blog, this is only personal list and resources for me, i learn many things from Internet, so i decide to writes it down what i learn.
 ---
 
 <p class="message">
